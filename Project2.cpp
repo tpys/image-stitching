@@ -2535,7 +2535,7 @@ void MainWindow::Stitch(QImage image1, QImage image2, double hom[3][3], double h
 		stitchedImage.setPixel(c, r, qRgb((int)color[0], (int)color[1], (int)color[2]));
 	}
 
-
+	
 	//// display seam
 	//for (int i = 0; i < seam.size();++i)
 	//{

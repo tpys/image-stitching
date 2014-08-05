@@ -16,12 +16,4 @@
     <CustomBuild Include="mainwindow.h" />
     <CustomBuild Include="mainwindow.ui" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="..\result\interest1.png" />
-    <None Include="..\result\match1.png" />
-    <None Include="..\result\match2.png" />
-    <None Include="..\result\rainier_interest1.png" />
-    <None Include="..\result\rainier_interest2.png" />
-    <None Include="..\result\stitched.png" />
-  </ItemGroup>
 </Project>
