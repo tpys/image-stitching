@@ -5,16 +5,6 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageStitcher", "ImageStitcher.vcxproj", "{F34E43CF-6E0A-34E8-82F8-26D0960E3442}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{36BAE1B8-2B6C-4518-A6E9-B942F7334BF1}"
-	ProjectSection(SolutionItems) = preProject
-		..\result\interest1.png = ..\result\interest1.png
-		..\result\match1.png = ..\result\match1.png
-		..\result\match2.png = ..\result\match2.png
-		..\result\rainier_interest1.png = ..\result\rainier_interest1.png
-		..\result\rainier_interest2.png = ..\result\rainier_interest2.png
-		..\result\stitched.png = ..\result\stitched.png
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
