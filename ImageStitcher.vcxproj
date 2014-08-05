@@ -170,6 +170,14 @@
       <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(ConfigurationName)\ui_%(Filename).h;%(Outputs)</Outputs>
     </CustomBuild>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\result\interest1.png" />
+    <None Include="..\result\match1.png" />
+    <None Include="..\result\match2.png" />
+    <None Include="..\result\rainier_interest1.png" />
+    <None Include="..\result\rainier_interest2.png" />
+    <None Include="..\result\stitched.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
