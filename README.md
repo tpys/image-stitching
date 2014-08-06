@@ -37,3 +37,4 @@ Platform: Qt5 vs2013 c++11
 * It take a lot time to build dog pyramid, I known there is a fast way to instead one big gauss kernel with two seperate samll gauss kernel. But, unsucess, don't why.
 * In the matching part, some method such as knn can be used to reduce time, I didn't do that either.
 * Finally my sift detector doesn't work with big rotation, many reason could cause this.
+Hoping somebody could join me to improve this useful project.
