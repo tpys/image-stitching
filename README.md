@@ -26,8 +26,11 @@ Platform: Qt5 vs2013 c++11
  Interest Points(can't show scale and orientation) <br>
 ![](https://github.com/tpys/image-stitching/raw/master/interest1.png) <br>
  Match left <br>
+![](https://github.com/tpys/image-stitching/raw/master/match2.png) <br>
+ Match right <br>
 ![](https://github.com/tpys/image-stitching/raw/master/match1.png) <br>
- Horizontal Seam Carving <br>
+ Stitched <br>
+![](https://github.com/tpys/image-stitching/raw/master/stitched.png) <br>
 
 3.Issue
 --------
